@@ -6,3 +6,10 @@
     width:800;
     height:100%;
 }
+.handsfree-canvas {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width:  370px !important;
+    height: 300px !important;
+    }
