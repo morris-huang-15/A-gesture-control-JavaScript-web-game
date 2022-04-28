@@ -1,0 +1,8 @@
+#gameBackground{
+    position: fixed;
+    top: 0;
+    right: 10px;
+    border:1px solid black;
+    width:800;
+    height:100%;
+}
